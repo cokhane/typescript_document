@@ -3,9 +3,13 @@ This video is the property of its original creator and is shared here for educat
 
 FreeCodeCamp
 .
-Original video: https://www.youtube.com/watch?v=SpwzRDUQ1GI
+Original video: https://www.youtube.com/watch?v=SpwzRDUQ1GI&t=5628s
 If you are the copyright owner and would like this content removed, please contact me directly.
 rhidzkhan.ahmad99@gmail.com
+
+Other Sources:
+https://www.typescriptlang.org/docs/
+
 
 
 Utility Type
