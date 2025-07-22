@@ -100,11 +100,7 @@ function fetchUserDetails(username: string): User{
 /*
 
 
-
-
 */
-
-
 
 type UpdatesUser =  Partial<User>
 type UpdateUserOmit = Omit<User, "id">
